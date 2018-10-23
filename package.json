@@ -1,0 +1,30 @@
+{
+  "name": "sass_start",
+  "version": "1.0.0",
+  "description": "gulpfile.js require sass and dependence",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tayoursky/sass_start.git"
+  },
+  "author": "Boris Tayoursky",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tayoursky/sass_start/issues"
+  },
+  "homepage": "https://github.com/Tayoursky/sass_start#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.0",
+    "gulp": "^3.9.1",
+    "gulp-cssmin": "^0.2.0",
+    "gulp-htmlmin": "^5.0.1",
+    "gulp-notify": "^3.2.0",
+    "gulp-rename": "^1.4.0",
+    "gulp-stylus": "^2.7.0",
+    "gulp-uglify": "^3.0.1",
+    "nib": "^1.1.2"
+  }
+}
